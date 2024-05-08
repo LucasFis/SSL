@@ -1,33 +1,37 @@
 #include "Conversion.h"
 
-float Conversion_Celsius_Fahrenheit(float Celsius){
+double Celsius(double fahrenheit){
+    return (fahrenheit-32)*5.0/9.0;
+}
+
+double Fahrenheit(double Celsius){
     return (9.0/5.0) * Celsius + 32;
 }
 
-void PrintTablas(float limite_inferior,float limite_superior, float incremento){
-    for(float i = limite_inferior ; i <= limite_superior ; i += incremento){
-        printf("%8.2f grados Celsius ------> %8.2f grados Fahrenheit\n",i,Conversion_Celsius_Fahrenheit(i));
+void PrintTablas(double limite_inferior,double limite_superior, double incremento){
+    for(double i = limite_inferior ; i <= limite_superior ; i += incremento){
+        printf("%8.2f grados Celsius ------> %8.2f grados Fahrenheit\n",i,Fahrenheit(i));
     }
 }
 
-void PrintTablasCelsius(float limite_inferior,float limite_superior, float incremento){
-    for(float i = limite_inferior ; i <= limite_superior ; i += incremento){
+void PrintTablasCelsius(double limite_inferior,double limite_superior, double incremento){
+    for(double i = limite_inferior ; i <= limite_superior ; i += incremento){
         printf("%8.2f grados Celsius\n", i);
     }
 }
 
-void PrintTablasFahrenheit(float limite_inferior, float limite_superior, float incremento) {
-    for(float i = limite_inferior ; i <= limite_superior ; i += incremento) {
-        printf("%8.2f grados Fahrenheit\n", Conversion_Celsius_Fahrenheit(i));
+void PrintTablasFahrenheit(double limite_inferior, double limite_superior, double incremento) {
+    for(double i = limite_inferior ; i <= limite_superior ; i += incremento) {
+        printf("%8.2f grados Fahrenheit\n", Fahrenheit(i));
     }
 }
 
-void PrintFila(float limite_inferior){
-    printf("%8.2f grados Celsius ------> %8.2f grados Fahrenheit\n",limite_inferior,Conversion_Celsius_Fahrenheit(limite_inferior));
+void PrintFila(double limite_inferior){
+    printf("%8.2f grados Celsius ------> %8.2f grados Fahrenheit\n",limite_inferior,Fahrenheit(limite_inferior));
 }
 
-void PrintFilas(float limite_inferior, float limite_superior, float incremento){
-    for(float i = limite_inferior ; i <= limite_superior ; i += incremento) {
+void PrintFilas(double limite_inferior, double limite_superior, double incremento){
+    for(double i = limite_inferior ; i <= limite_superior ; i += incremento) {
         PrintFila(i);
     }
 }

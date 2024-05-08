@@ -4,15 +4,15 @@
 
 
 int main(){
-    float lim_inferior, lim_superior, incremento;
+    double lim_inferior, lim_superior, incremento;
     int Opc = 1;
     printf("Ingrese un valor inferior en Celsius a transformar a fahrenheit: ");
-    scanf("%f",&lim_inferior);
+    scanf("%lf",&lim_inferior);
 
 
     do{//Verifica un valor valido de maximo
     printf("Ingrese un valor maximo al cual llega los grados Celsius: ");
-    scanf("%f",&lim_superior);
+    scanf("%lf",&lim_superior);
      if(lim_superior < lim_inferior){
         printf("Valor invalido de limite superior\n");
     }
@@ -22,7 +22,7 @@ int main(){
 
     do{//Verifica un valor valido de incremento > 0
     printf("Ingrese un valor de incremento para los grados Celsius: ");
-    scanf("%f",&incremento);
+    scanf("%lf",&incremento);
     if(incremento <=0){
         printf("Valor invalido de incremento\n");
     }
