@@ -1,0 +1,7 @@
+{
+    "esto es un comentario"
+    R x10 y20 h15 w25 fYellow ;
+    C xc80 yc50 r30 fBlue ;
+    "esto es una elipse"
+    E xc150 yc50 rx15 ry98 fRed ;
+}

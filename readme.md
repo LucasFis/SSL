@@ -1,11 +1,37 @@
-Sintaxis y Semántica de los Lenguajes
+# Sintaxis y Semántica de los Lenguajes
 
-Nombre y apellido: Lucas Jose Fiscella
+Comisión: K2052
 
-comision: k2052
+Año: 2024
 
-Año de cursada: 2024 1er cuatrimestre
+Grupo: 3
 
-legajo: 213.706-9
+Integrantes:
 
-Utilizamos el lenguaje C. 
+- Leandro Agustín Miranda;
+  - Legajo 1767483
+  - Github LeandroAgustinMiranda 
+
+- Jorge Ignacio Condori Aguirre;
+  - Legajo 2079562
+  - Github JorgeIgnacioCondoriAguirre
+
+- Catriel Maximiliano Ruben Capeanes;
+  - Legajo 1687888
+  - Github catrielcapeanes
+
+- Franco Matias Cortinez;
+  - Legajo 1762060
+  - Github Zenitroc
+
+- Felipe Femenia;
+  - Legajo 2136880
+  - Github FeliFemenia
+
+- Lucas Fiscella:
+  - Legajo 2137069
+  - Github LucasFis
+
+- Tomas Ezequiel Pedro;
+  -  Legajo 2139819
+  -  Github totopedroo

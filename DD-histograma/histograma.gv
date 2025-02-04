@@ -1,0 +1,9 @@
+digraph G{
+    node[ shape = box, height = 1, width = 1]
+    In -> Out [style = bold,label=" '/t' || ' ' || '/n' / array_ncp[ncp]++ ^ ncp = 0      "];
+    Out -> In [style = bold,label=" otro/ncp++"];
+    In -> In [style = bold,label=" otro/ncp++"];
+    Out -> Out [style = bold,label=" '/t'|| ' ' || '/n' / Ɛ        "];
+}
+
+

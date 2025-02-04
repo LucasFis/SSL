@@ -1,0 +1,61 @@
+<svg width="1100" height="1100">
+<text x=10 y="1000" font-family="Arial" font-size=12 text-anchor="middle">0</text>
+<text x=10 y="960" font-family="Arial" font-size=12 text-anchor="middle">1</text>
+<text x=10 y="920" font-family="Arial" font-size=12 text-anchor="middle">2</text>
+<text x=10 y="880" font-family="Arial" font-size=12 text-anchor="middle">3</text>
+<text x=10 y="840" font-family="Arial" font-size=12 text-anchor="middle">4</text>
+<text x=10 y="800" font-family="Arial" font-size=12 text-anchor="middle">5</text>
+<text x=10 y="760" font-family="Arial" font-size=12 text-anchor="middle">6</text>
+<text x=10 y="720" font-family="Arial" font-size=12 text-anchor="middle">7</text>
+<text x=10 y="680" font-family="Arial" font-size=12 text-anchor="middle">8</text>
+<text x=10 y="640" font-family="Arial" font-size=12 text-anchor="middle">9</text>
+<text x=10 y="600" font-family="Arial" font-size=12 text-anchor="middle">10</text>
+<text x=10 y="560" font-family="Arial" font-size=12 text-anchor="middle">11</text>
+<text x=10 y="520" font-family="Arial" font-size=12 text-anchor="middle">12</text>
+<text x=10 y="480" font-family="Arial" font-size=12 text-anchor="middle">13</text>
+<text x=10 y="440" font-family="Arial" font-size=12 text-anchor="middle">14</text>
+<text x=10 y="400" font-family="Arial" font-size=12 text-anchor="middle">15</text>
+<text x=10 y="360" font-family="Arial" font-size=12 text-anchor="middle">16</text>
+<text x=10 y="320" font-family="Arial" font-size=12 text-anchor="middle">17</text>
+<text x=10 y="280" font-family="Arial" font-size=12 text-anchor="middle">18</text>
+<text x=10 y="240" font-family="Arial" font-size=12 text-anchor="middle">19</text>
+<text x=10 y="200" font-family="Arial" font-size=12 text-anchor="middle">20</text>
+<text x=10 y="160" font-family="Arial" font-size=12 text-anchor="middle">21</text>
+<text x=10 y="120" font-family="Arial" font-size=12 text-anchor="middle">22</text>
+<text x=10 y="80" font-family="Arial" font-size=12 text-anchor="middle">23</text>
+<text x=10 y="40" font-family="Arial" font-size=12 text-anchor="middle">24</text>
+<text x=10 y="0" font-family="Arial" font-size=12 text-anchor="middle">25</text>
+<rect x="20" y="0" width="5" height="1000" fill="black"></rect>
+<rect x="30" y="960" width="40" height="40" fill="black" />
+<text x="40" y="1020" font-family="Arial" font-size=12 text-anchor="middle">1</text>
+<rect x="80" y="960" width="40" height="40" fill="black" />
+<text x="90" y="1020" font-family="Arial" font-size=12 text-anchor="middle">2</text>
+<rect x="130" y="960" width="40" height="40" fill="black" />
+<text x="140" y="1020" font-family="Arial" font-size=12 text-anchor="middle">3</text>
+<rect x="180" y="960" width="40" height="40" fill="black" />
+<text x="190" y="1020" font-family="Arial" font-size=12 text-anchor="middle">4</text>
+<rect x="230" y="1000" width="40" height="0" fill="black" />
+<text x="240" y="1020" font-family="Arial" font-size=12 text-anchor="middle">5</text>
+<rect x="280" y="1000" width="40" height="0" fill="black" />
+<text x="290" y="1020" font-family="Arial" font-size=12 text-anchor="middle">6</text>
+<rect x="330" y="1000" width="40" height="0" fill="black" />
+<text x="340" y="1020" font-family="Arial" font-size=12 text-anchor="middle">7</text>
+<rect x="380" y="1000" width="40" height="0" fill="black" />
+<text x="390" y="1020" font-family="Arial" font-size=12 text-anchor="middle">8</text>
+<rect x="430" y="1000" width="40" height="0" fill="black" />
+<text x="440" y="1020" font-family="Arial" font-size=12 text-anchor="middle">9</text>
+<rect x="480" y="1000" width="40" height="0" fill="black" />
+<text x="490" y="1020" font-family="Arial" font-size=12 text-anchor="middle">10</text>
+<rect x="530" y="1000" width="40" height="0" fill="black" />
+<text x="540" y="1020" font-family="Arial" font-size=12 text-anchor="middle">11</text>
+<rect x="580" y="1000" width="40" height="0" fill="black" />
+<text x="590" y="1020" font-family="Arial" font-size=12 text-anchor="middle">12</text>
+<rect x="630" y="1000" width="40" height="0" fill="black" />
+<text x="640" y="1020" font-family="Arial" font-size=12 text-anchor="middle">13</text>
+<rect x="680" y="1000" width="40" height="0" fill="black" />
+<text x="690" y="1020" font-family="Arial" font-size=12 text-anchor="middle">14</text>
+<rect x="730" y="1000" width="40" height="0" fill="black" />
+<text x="740" y="1020" font-family="Arial" font-size=12 text-anchor="middle">15</text>
+<rect x="780" y="1000" width="40" height="0" fill="black" />
+<text x="790" y="1020" font-family="Arial" font-size=12 text-anchor="middle">16</text>
+</svg>
